@@ -12,7 +12,7 @@ import csv
 import time as tm
 import os
 
-sys.path.append('C:/Users/Dell/.spyder2-py3/MLUtil/')
+# sys.path.append('C:/Users/Dell/.spyder2-py3/MLUtil/')
 import opt
 
 INF = float("inf")
