@@ -4,7 +4,7 @@ import numpy as np
 #import matplotlib as plt
 import dataIO as dt
 import KmeansUtil as km
-import config1 as cf
+import config as cf
 import math as mt
 import pandas as pd
 import sys
